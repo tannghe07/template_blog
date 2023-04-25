@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Thu, 23 Mar 2023 21:43:39 at https://html.spiderthemes-demos.com/kbdoc/kbdoc-html/index.html?fbclid=IwAR0LgpsKb8CXmKCa9k8xeGWKMI7FfksiLcs_VVp90misoH7UfWjZqlQAkpo
+(winhttrack https://html.spiderthemes-demos.com/kbdoc/kbdoc-html/index.html?fbclid=IwAR0LgpsKb8CXmKCa9k8xeGWKMI7FfksiLcs_VVp90misoH7UfWjZqlQAkpo -O "/Users/macbookpro/Desktop/web copy/blog" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:50:06	Error: 	"Not Found" (404) at link https://html.spiderthemes-demos.com/kbdoc/kbdoc-html/assets/mcustomscrollbar/mCSB_buttons.png (from https://html.spiderthemes-demos.com/kbdoc/kbdoc-html/assets/mcustomscrollbar/jquery.mCustomScrollbar.min.css)
+21:50:06	Error: 	"Not Found" (404) at link https://html.spiderthemes-demos.com/kbdoc/kbdoc-html/assets/video/font/VideoJS.eot? (from https://html.spiderthemes-demos.com/kbdoc/kbdoc-html/assets/video/video-js.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 27 seconds : 379 links scanned, 376 files written (14487536 bytes overall) [8594440 bytes received at 22207 bytes/sec], 8155061 bytes transferred using HTTP compression in 114 files, ratio 26%, 13.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
